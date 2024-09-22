@@ -1,15 +1,8 @@
-Project Overview:
+👋 Hi, I'm Anshuman Singh
 
-This project implements classical cryptographic techniques using Java, focusing on the Caesar Cipher and Vigenère Cipher.
+💻 Full Stack Developer | 🚀 Problem Solver | 🌱 Continuous Learner
 
-It includes:Encryption and decryption functions for both ciphers. A method to break the Caesar Cipher using frequency analysis. A cryptanalysis method to break the Vigenère Cipher using the Kasiski examination technique and frequency analysis.
 
-The project demonstrates both theoretical knowledge of cryptography and practical Java programming skills.
+Welcome to my GitHub profile!
 
-Features :
-
-Caesar Cipher:Encrypts and decrypts messages by shifting characters of the alphabet.Provides an algorithm to break the Caesar Cipher using letter frequency analysis.
-
-Vigenère Cipher:Encrypts and decrypts messages using a keyword for multiple shifts of the alphabet.Offers functionality to break the Vigenère Cipher using known cryptographic analysis techniques.
-
-Cryptanalysis:Implements basic cryptanalysis tools such as letter frequency comparison and the Kasiski method.
+I'm passionate about creating efficient, scalable, and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I love turning complex problems into simple, beautiful, and intuitive designs.
